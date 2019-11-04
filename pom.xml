@@ -29,8 +29,8 @@
                 <version>1.9.4</version>
                 <configuration>
                     <tag>${project.version}</tag>
-                    <username>michaelmelodysmartbear</username>
-                    <password>5897b058a33533d9381b6c5fb347373f7c480470</password>
+                    <username></username>
+                    <password></password>
                 </configuration>
             </plugin>
             <plugin>
